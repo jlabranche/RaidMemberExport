@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: RaidMemberExport
+## Notes: RaidMemberExport
+## Author: Hobbit
+## SavedVariables: RaidMemberExportDB
+
+##
+RaidMemberExport.lua
